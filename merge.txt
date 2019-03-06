@@ -1,0 +1,205 @@
+---------------------------------------------------
+Region: /apd VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/apd/vobs_apd.txt
+
+
+---------------------------------------------------
+Region: /apd VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 11
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/apd/views_apd.txt
+
+
+---------------------------------------------------
+Region: couthIT VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/couthIT/vobs_couthIT.txt
+
+
+---------------------------------------------------
+Region: couthIT VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 1
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/couthIT/views_couthIT.txt
+
+
+---------------------------------------------------
+Region: ind_test VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/ind_test/vobs_ind_test.txt
+
+
+---------------------------------------------------
+Region: ind_test VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 1
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/ind_test/views_ind_test.txt
+
+
+---------------------------------------------------
+Region: testrgy VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/testrgy/vobs_testrgy.txt
+
+
+---------------------------------------------------
+Region: testrgy VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 1
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/testrgy/views_testrgy.txt
+
+
+---------------------------------------------------
+Region: win_test VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/win_test/vobs_win_test.txt
+
+
+---------------------------------------------------
+Region: win_test VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 1
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/win_test/views_win_test.txt
+
+
+REGARDS,
+SMALL BROTHER
+---------------------------------------------------
+Region: /apd VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/apd/vobs_apd.txt
+
+
+---------------------------------------------------
+Region: /apd VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 11
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/apd/views_apd.txt
+
+
+---------------------------------------------------
+Region: couthIT VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/couthIT/vobs_couthIT.txt
+
+
+---------------------------------------------------
+Region: couthIT VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 1
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/couthIT/views_couthIT.txt
+
+
+---------------------------------------------------
+Region: ind_test VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/ind_test/vobs_ind_test.txt
+
+
+---------------------------------------------------
+Region: ind_test VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 1
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/ind_test/views_ind_test.txt
+
+
+---------------------------------------------------
+Region: testrgy VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/testrgy/vobs_testrgy.txt
+
+
+---------------------------------------------------
+Region: testrgy VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 1
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/testrgy/views_testrgy.txt
+
+
+---------------------------------------------------
+Region: win_test VOB/VIEW: vobs
+---------------------------------------------------
+Total number of vobs registry errors/inconsistencies detected: 1
+
+Registry inconsistency for vobs on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/win_test/vobs_win_test.txt
+
+
+---------------------------------------------------
+Region: win_test VOB/VIEW: views
+---------------------------------------------------
+Total number of views registry errors/inconsistencies detected: 1
+
+Registry inconsistency for views on ccasexrgy details are in the below path, please cross check and rectify ASAP for registry performance.
+
+/ccasestore/ccrgybkp/registrycheck/ccasexrgy/win_test/views_win_test.txt
+
+
+REGARDS,
+SMALL BROTHER
+
